@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_find_location">Find</string>
+    <string name="long_text">This is true..fsyyuuiuhh</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
